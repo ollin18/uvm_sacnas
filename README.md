@@ -1,6 +1,6 @@
 # The UVM's SACNAS chapter
 
-[This](This) is the UVM's SACNAS chapter website repo. If there's something important we're missing or have any improvement for the site please start an issue or a pr.
+This is the UVM's SACNAS chapter website repo. If there's something important we're missing or have any improvement for the site please start an issue or a pr.
 
 Based on Massively.
 
